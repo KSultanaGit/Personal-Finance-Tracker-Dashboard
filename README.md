@@ -1,11 +1,9 @@
 # Simple-Finance-Dashboard
-## Created & Analyzed by Saddam Ansari @Aspirirng Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-## Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/finance-dashboard-by--saddam-ansari)
-#
+## Created & Analyzed by Khadija Sultana [Linkedin](https://www.linkedin.com/in/khadija-sultana-2215922b0/)
 
 ## Full dashboard Overview
 
-![Screenshot 2024-03-14 111219](https://github.com/user-saddam123/Simple-Finance-Dashboard/assets/123800896/c307be8f-7d03-416a-a0c7-9f7f0584c23b)
+![Screenshot 2024-03-14 111219](https://github.com/KSultanaGit/PersonalFinanceTrackerDashboard/blob/main/images/1.png)
 
 
 ## Objective:
@@ -36,27 +34,6 @@ Another donut chart showcases savings and their distribution across various comp
 ## Table Analysis:
 A table provides a detailed breakdown of financial data categorized by type and year, along with total and subtotals, offering a granular view for analysis.
 
-## Learning Journey:
-This dashboard represents a journey of advancing analytical capabilities and visual storytelling in finance:
+## Contributors:
+     Khadija Sultana
 
- * Exploratory Analysis: Understanding the dataset and identifying key metrics and insights.
-
- * Data Transformation: Preparing the data for visualization, including calculations for growth rates and component analysis.
-
- * Visualization Techniques: Leveraging Power BI's features to create visually appealing and interactive representations.
-
- * Insight Generation: Extracting meaningful insights from the data to drive financial decision-making and planning.
-
- * Continuous Improvement: Iterating on the dashboard design and functionality based on user feedback and evolving business needs.
-
-#
-
-If you find this dashboard insightful and visually appealing, please like and share it to spread awareness. Your feedback and suggestions are valuable for further improvement and refinement of this analysis tool.
-
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
-Created and Analyzed by- Saddam Ansari @Aspiring data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-
-Place - India
-
-The Ende
