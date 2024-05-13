@@ -1,4 +1,4 @@
-# Simple-Finance-Dashboard
+# Personal-Finance-Tracker-Dashboard
 ## Created & Analyzed by Khadija Sultana [Linkedin](https://www.linkedin.com/in/khadija-sultana-2215922b0/)
 
 ## Full dashboard Overview
